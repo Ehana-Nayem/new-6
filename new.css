@@ -1,0 +1,35 @@
+body{
+	background-color:#6a6a84;
+}
+
+.section{
+	width:570px;
+	height:450px;
+	background-color:#6f4c6e;
+	margin:0 auto;
+	border-radius:25px;
+}
+.section h3 {
+	font-size:40px;
+	text-align:center;
+	color:white;
+	
+}
+.section input{
+	display:block;
+	margin-left:200px;
+	border-radius:90px;
+	
+}
+.section p {
+	text-align:center;
+	margin:5px;
+	padding:5px;
+}
+.buttom1 {
+	margin-left: 252px;
+    margin-top: 48px;
+    border-radius: 17px;
+    padding: 4px;
+    width: 70px;
+    font-size: medium;
